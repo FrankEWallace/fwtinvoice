@@ -1,4 +1,4 @@
-# 📄 FWT Invoice Generator
+# FWT Invoice Generator
 
 A professional, fully-featured invoice template generator built with React, TypeScript, and Vite. Create, edit, save, and download beautiful PDF invoices for your business.
 
@@ -7,22 +7,22 @@ A professional, fully-featured invoice template generator built with React, Type
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue)
 ![Vite](https://img.shields.io/badge/Vite-6.3.5-646CFF)
 
-## ✨ Features
+ Features
 
-- **📝 Fully Editable Template** - Edit all invoice fields including client info, dates, items, and tax
-- **➕ Dynamic Line Items** - Add/remove multiple services or products
-- **💾 Auto-Save & Manual Save** - Saves to browser localStorage every 30 seconds
-- **📥 PDF Download** - High-quality PDF generation with custom filenames
-- **🖨️ Print Support** - Print directly or save as PDF via browser
-- **⌨️ Keyboard Shortcuts** - Fast workflow with Ctrl+S, Ctrl+E, Ctrl+P
-- **🎨 Professional Design** - Clean, modern UI with F.W Technologies branding
-- **🧮 Auto-Calculations** - Automatic subtotal, tax, and total calculations
-- **📱 Responsive Layout** - Works on all screen sizes
-- **🌙 Print-Optimized** - Clean print layout without UI elements
+- Fully Editable Template - Edit all invoice fields including client info, dates, items, and tax
+-  Dynamic Line Items - Add/remove multiple services or products
+-  Auto-Save & Manual Save - Saves to browser localStorage every 30 seconds
+-  PDF Download - High-quality PDF generation with custom filenames
+- Print Support - Print directly or save as PDF via browser
+-  Keyboard Shortcuts - Fast workflow with Ctrl+S, Ctrl+E, Ctrl+P
+-  Professional Design - Clean, modern UI with F.W Technologies branding
+- Auto-Calculations- Automatic subtotal, tax, and total calculations
+-  Responsive Layout - Works on all screen sizes
+-  Print-Optimized - Clean print layout without UI elements
 
-## 🚀 Quick Start
+ Quick Start
 
-### Installation
+ Installation
 
 ```bash
 # Clone the repository
@@ -46,15 +46,15 @@ The app will be running at `http://localhost:3000` (or the next available port).
 npm run build
 ```
 
-## 📖 Usage
+##  Usage
 
 ### Creating an Invoice
 
-1. **Edit Mode** - Click "✏️ Edit" to enter edit mode
+1. **Edit Mode** - Click "Edit" to enter edit mode
 2. **Fill Details** - Enter client name, business type, and location
 3. **Add Items** - Click "Add Item" to add services/products
 4. **Set Tax** - Enter tax percentage if applicable
-5. **Preview** - Click "👁️ Preview" to see the final invoice
+5. **Preview** - Click "Preview" to see the final invoice
 6. **Download** - Click "Download PDF" to save
 
 ### Keyboard Shortcuts
@@ -73,7 +73,7 @@ npm run build
 - **Download PDF** - Generate and download high-quality PDF
 - **Print** - Print or save as PDF via browser dialog
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Frontend Framework:** React 18.3.1
 - **Language:** TypeScript
@@ -85,7 +85,7 @@ npm run build
 - **Notifications:** Sonner (Toast)
 - **Storage:** Browser localStorage
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 fwtinvoice/
@@ -102,7 +102,7 @@ fwtinvoice/
 └── package.json
 ```
 
-## 📋 Features in Detail
+##  Features in Detail
 
 ### Invoice Fields
 - Invoice number (auto-incrementing)
@@ -125,7 +125,7 @@ fwtinvoice/
 - Browser localStorage
 - Load previous invoices
 
-## 🎨 Customization
+##  Customization
 
 To customize company information, edit the "From" section in `src/App.tsx`:
 
@@ -140,28 +140,28 @@ To customize company information, edit the "From" section in `src/App.tsx`:
 </div>
 ```
 
-## 📝 License
+##  License
 
 This project is licensed under the MIT License.
 
-## 👨‍💻 Author
+##  Author
 
 **Frank Wallace**
 - GitHub: [@FrankEWallace](https://github.com/FrankEWallace)
 - Email: wellikana@gmail.com
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Original design concept from Figma
 - Built with [Vite](https://vitejs.dev/)
 - UI components powered by [Radix UI](https://www.radix-ui.com/)
 - Icons by [Lucide](https://lucide.dev/)
 
-## 🐛 Bug Reports & Feature Requests
+##  Bug Reports & Feature Requests
 
 Found a bug or have a feature request? Please open an issue on GitHub.
 
-## ⭐ Show Your Support
+##  Show Your Support
 
 If this project helped you, please give it a ⭐ on GitHub!
 
