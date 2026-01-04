@@ -148,7 +148,7 @@ This project is licensed under the MIT License.
 
 **Frank Wallace**
 - GitHub: [@FrankEWallace](https://github.com/FrankEWallace)
-- Email: wellikana@gmail.com
+- Email: info@fwtechnologies.co.tz
 
 ##  Acknowledgments
 

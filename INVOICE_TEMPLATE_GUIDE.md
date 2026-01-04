@@ -126,7 +126,7 @@ Your invoice application is now a **fully editable template** that you can use f
 
 The "From" section contains your company details:
 - **Company**: F.W Technologies
-- **Email**: wellikana@gmail.com
+- **Email**: info@fwtechnologies.co.tz
 - **Phone**: +255 764 357699
 - **Location**: Dar es Salaam, Tanzania
 

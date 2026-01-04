@@ -398,7 +398,7 @@ export default function App() {
                   <p className="font-medium text-black">F.W Technologies</p>
                   <p>Technology Solutions Provider</p>
                   <p>Dar es Salaam, Tanzania</p>
-                  <p>wellikana@gmail.com</p>
+                  <p>info@fwtechnologies.co.tz</p>
                   <p>+255 764 357699</p>
                 </div>
               </div>
